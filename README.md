@@ -1,7 +1,10 @@
 # robot-server
 
-### This server will run on localhost:8081
+### Start the server 
+```
+npm start
+```
 
-### Run this server before using it as an endpoit 
+### Once you copy the dist folder, run this project as standalone and build your robot
 
 ### Enjoy
